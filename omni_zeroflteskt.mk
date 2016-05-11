@@ -10,5 +10,4 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := zeroflteskt
 PRODUCT_NAME := omni_zeroflteskt
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G920S
 PRODUCT_MANUFACTURER := samsung
